@@ -1,0 +1,161 @@
+entity_id,case_id,entity_type,entity_value,source_evidence,confidence
+ENT_0001,CASE_001,PERSON,Rajesh Sharma,complaint.txt,0.99
+ENT_0002,CASE_001,PHONE,9000000001,chat_transcript.txt,0.98
+ENT_0003,CASE_001,UPI,corp.settle99@fakeupi,transaction.txt,0.99
+ENT_0004,CASE_001,AMOUNT,INR 450000,transaction.txt,0.99
+ENT_0005,CASE_001,DATE,2026-03-10,complaint.txt,0.99
+ENT_0006,CASE_001,LOCATION,"Bengaluru, Karnataka",complaint.txt,0.95
+ENT_0007,CASE_001,URL,https://corp-auth.fakedemo.in/verify,chat_transcript.txt,0.96
+ENT_0008,CASE_001,ORGANIZATION,Apex Tech Solutions (Fictional),complaint.txt,0.92
+ENT_0009,CASE_002,PERSON,Ananya Rao,complaint.txt,0.99
+ENT_0010,CASE_002,PHONE,9000000002,chat_transcript.txt,0.98
+ENT_0011,CASE_002,UPI,recruitment.fee@demobank,transaction.txt,0.99
+ENT_0012,CASE_002,AMOUNT,INR 28500,transaction.txt,0.99
+ENT_0013,CASE_002,DATE,2026-03-11,complaint.txt,0.99
+ENT_0014,CASE_002,LOCATION,"Hyderabad, Telangana",complaint.txt,0.95
+ENT_0015,CASE_002,URL,https://careers-portal.fakedemo.in,chat_transcript.txt,0.96
+ENT_0016,CASE_002,ORGANIZATION,Global Career Connect (Fictional),complaint.txt,0.92
+ENT_0017,CASE_003,PERSON,Suresh Kumar,complaint.txt,0.99
+ENT_0018,CASE_003,PHONE,9000000003,chat_transcript.txt,0.98
+ENT_0019,CASE_003,UPI,emergency.fund01@fakeupi,transaction.txt,0.99
+ENT_0020,CASE_003,AMOUNT,INR 75000,transaction.txt,0.99
+ENT_0021,CASE_003,DATE,2026-03-12,complaint.txt,0.99
+ENT_0022,CASE_003,LOCATION,"Pune, Maharashtra",complaint.txt,0.95
+ENT_0023,CASE_003,URL,https://legal-bail-service.fakedemo.in,chat_transcript.txt,0.96
+ENT_0024,CASE_003,ORGANIZATION,Emergency Legal Aid Cell (Fictional),complaint.txt,0.92
+ENT_0025,CASE_004,PERSON,Meera Iyer,complaint.txt,0.99
+ENT_0026,CASE_004,PHONE,9000000004,chat_transcript.txt,0.98
+ENT_0027,CASE_004,UPI,telecom.kyc@fakeicici,transaction.txt,0.99
+ENT_0028,CASE_004,AMOUNT,INR 32000,transaction.txt,0.99
+ENT_0029,CASE_004,DATE,2026-03-13,complaint.txt,0.99
+ENT_0030,CASE_004,LOCATION,"Chennai, Tamil Nadu",complaint.txt,0.95
+ENT_0031,CASE_004,URL,https://quick-kyc-telecom.demoportal.net,chat_transcript.txt,0.96
+ENT_0032,CASE_004,ORGANIZATION,National Telecom Services (Fictional),complaint.txt,0.92
+ENT_0033,CASE_005,PERSON,Vikram Malhotra,complaint.txt,0.99
+ENT_0034,CASE_005,PHONE,9000000005,chat_transcript.txt,0.98
+ENT_0035,CASE_005,UPI,customs.clearance@demoaxis,transaction.txt,0.99
+ENT_0036,CASE_005,AMOUNT,INR 250000,transaction.txt,0.99
+ENT_0037,CASE_005,DATE,2026-03-14,complaint.txt,0.99
+ENT_0038,CASE_005,LOCATION,"New Delhi, Delhi",complaint.txt,0.95
+ENT_0039,CASE_005,URL,https://verify-police-portal.fakedemo.in,chat_transcript.txt,0.96
+ENT_0040,CASE_005,ORGANIZATION,CBI Cyber Cell Delhi (Fictional Spoof),complaint.txt,0.92
+ENT_0041,CASE_006,PERSON,Pooja Hegde,complaint.txt,0.99
+ENT_0042,CASE_006,PHONE,9000000006,chat_transcript.txt,0.98
+ENT_0043,CASE_006,UPI,crypto.arbitrage@fakeupi,transaction.txt,0.99
+ENT_0044,CASE_006,AMOUNT,INR 180000,transaction.txt,0.99
+ENT_0045,CASE_006,DATE,2026-03-15,complaint.txt,0.99
+ENT_0046,CASE_006,LOCATION,"Mumbai, Maharashtra",complaint.txt,0.95
+ENT_0047,CASE_006,URL,https://vip-arbitrage-app.demotrading.org,chat_transcript.txt,0.96
+ENT_0048,CASE_006,ORGANIZATION,Alpha Wealth Capital (Fictional),complaint.txt,0.92
+ENT_0049,CASE_007,PERSON,Amit Desai,complaint.txt,0.99
+ENT_0050,CASE_007,PHONE,9000000001,chat_transcript.txt,0.98
+ENT_0051,CASE_007,UPI,vendor.urgent@fakehdfc,transaction.txt,0.99
+ENT_0052,CASE_007,AMOUNT,INR 620000,transaction.txt,0.99
+ENT_0053,CASE_007,DATE,2026-03-16,complaint.txt,0.99
+ENT_0054,CASE_007,LOCATION,"Ahmedabad, Gujarat",complaint.txt,0.95
+ENT_0055,CASE_007,URL,https://corp-auth.fakedemo.in/audit,chat_transcript.txt,0.96
+ENT_0056,CASE_007,ORGANIZATION,Apex Tech Solutions (Fictional),complaint.txt,0.92
+ENT_0057,CASE_008,PERSON,Sunita Joshi,complaint.txt,0.99
+ENT_0058,CASE_008,PHONE,9000000008,chat_transcript.txt,0.98
+ENT_0059,CASE_008,UPI,kyc.support@fakebank,transaction.txt,0.99
+ENT_0060,CASE_008,AMOUNT,INR 95000,transaction.txt,0.99
+ENT_0061,CASE_008,DATE,2026-03-17,complaint.txt,0.99
+ENT_0062,CASE_008,LOCATION,"Jaipur, Rajasthan",complaint.txt,0.95
+ENT_0063,CASE_008,URL,https://card-limit-upgrade.demobank.in,chat_transcript.txt,0.96
+ENT_0064,CASE_008,ORGANIZATION,National Card Services (Fictional),complaint.txt,0.92
+ENT_0065,CASE_009,PERSON,Rohit Sen,complaint.txt,0.99
+ENT_0066,CASE_009,PHONE,9000000009,chat_transcript.txt,0.98
+ENT_0067,CASE_009,UPI,narcotics.escrow@demobank,transaction.txt,0.99
+ENT_0068,CASE_009,AMOUNT,INR 140000,transaction.txt,0.99
+ENT_0069,CASE_009,DATE,2026-03-18,complaint.txt,0.99
+ENT_0070,CASE_009,LOCATION,"Kolkata, West Bengal",complaint.txt,0.95
+ENT_0071,CASE_009,URL,https://customs-surveillance.fakedemo.in,chat_transcript.txt,0.96
+ENT_0072,CASE_009,ORGANIZATION,Federal Narcotics Bureau (Spoofed),complaint.txt,0.92
+ENT_0073,CASE_010,PERSON,Kavita Nair,complaint.txt,0.99
+ENT_0074,CASE_010,PHONE,9000000010,chat_transcript.txt,0.98
+ENT_0075,CASE_010,UPI,courier.refee@fakeupi,transaction.txt,0.99
+ENT_0076,CASE_010,AMOUNT,INR 15500,transaction.txt,0.99
+ENT_0077,CASE_010,DATE,2026-03-19,complaint.txt,0.99
+ENT_0078,CASE_010,LOCATION,"Kochi, Kerala",complaint.txt,0.95
+ENT_0079,CASE_010,URL,https://express-delivery-redirection.demotrack.net,chat_transcript.txt,0.96
+ENT_0080,CASE_010,ORGANIZATION,FastExpress Courier (Fictional),complaint.txt,0.92
+ENT_0081,CASE_011,PERSON,Deepak Verma,complaint.txt,0.99
+ENT_0082,CASE_011,PHONE,9000000011,chat_transcript.txt,0.98
+ENT_0083,CASE_011,UPI,emergency.fund01@fakeupi,transaction.txt,0.99
+ENT_0084,CASE_011,AMOUNT,INR 85000,transaction.txt,0.99
+ENT_0085,CASE_011,DATE,2026-03-20,complaint.txt,0.99
+ENT_0086,CASE_011,LOCATION,"Indore, Madhya Pradesh",complaint.txt,0.95
+ENT_0087,CASE_011,URL,https://emergency-care-hospital.fakedemo.in,chat_transcript.txt,0.96
+ENT_0088,CASE_011,ORGANIZATION,City Trauma Center (Spoofed),complaint.txt,0.92
+ENT_0089,CASE_012,PERSON,Neha Gupta,complaint.txt,0.99
+ENT_0090,CASE_012,PHONE,9000000012,chat_transcript.txt,0.98
+ENT_0091,CASE_012,UPI,power.discom@fakeupi,transaction.txt,0.99
+ENT_0092,CASE_012,AMOUNT,INR 21000,transaction.txt,0.99
+ENT_0093,CASE_012,DATE,2026-03-21,complaint.txt,0.99
+ENT_0094,CASE_012,LOCATION,"Lucknow, Uttar Pradesh",complaint.txt,0.95
+ENT_0095,CASE_012,URL,https://discom-power-payment.fakedemo.in,chat_transcript.txt,0.96
+ENT_0096,CASE_012,ORGANIZATION,State Electricity Board (Spoofed),complaint.txt,0.92
+ENT_0097,CASE_013,PERSON,Manoj Tiwari,complaint.txt,0.99
+ENT_0098,CASE_013,PHONE,9000000013,chat_transcript.txt,0.98
+ENT_0099,CASE_013,UPI,olx.escrow99@demobank,transaction.txt,0.99
+ENT_0100,CASE_013,AMOUNT,INR 42000,transaction.txt,0.99
+ENT_0101,CASE_013,DATE,2026-03-22,complaint.txt,0.99
+ENT_0102,CASE_013,LOCATION,"Chandigarh, Punjab",complaint.txt,0.95
+ENT_0103,CASE_013,URL,https://marketplace-escrow.fakedemo.in,chat_transcript.txt,0.96
+ENT_0104,CASE_013,ORGANIZATION,Classified Escrow Hub (Fictional),complaint.txt,0.92
+ENT_0105,CASE_014,PERSON,Sneha Mukherjee,complaint.txt,0.99
+ENT_0106,CASE_014,PHONE,9000000014,chat_transcript.txt,0.98
+ENT_0107,CASE_014,UPI,cbi.deposit@fakeupi,transaction.txt,0.99
+ENT_0108,CASE_014,AMOUNT,INR 310000,transaction.txt,0.99
+ENT_0109,CASE_014,DATE,2026-03-23,complaint.txt,0.99
+ENT_0110,CASE_014,LOCATION,"Bhopal, Madhya Pradesh",complaint.txt,0.95
+ENT_0111,CASE_014,URL,https://verify-police-portal.fakedemo.in,chat_transcript.txt,0.96
+ENT_0112,CASE_014,ORGANIZATION,CBI Cyber Cell Delhi (Fictional Spoof),complaint.txt,0.92
+ENT_0113,CASE_015,PERSON,Rahul Menon,complaint.txt,0.99
+ENT_0114,CASE_015,PHONE,9000000015,chat_transcript.txt,0.98
+ENT_0115,CASE_015,UPI,hr.onboarding@fakeupi,transaction.txt,0.99
+ENT_0116,CASE_015,AMOUNT,INR 36000,transaction.txt,0.99
+ENT_0117,CASE_015,DATE,2026-03-24,complaint.txt,0.99
+ENT_0118,CASE_015,LOCATION,"Nagpur, Maharashtra",complaint.txt,0.95
+ENT_0119,CASE_015,URL,https://careers-portal.fakedemo.in,chat_transcript.txt,0.96
+ENT_0120,CASE_015,ORGANIZATION,Global Career Connect (Fictional),complaint.txt,0.92
+ENT_0121,CASE_016,PERSON,Geeta Bansal,complaint.txt,0.99
+ENT_0122,CASE_016,PHONE,9000000012,chat_transcript.txt,0.98
+ENT_0123,CASE_016,UPI,utility.update@fakeaxis,transaction.txt,0.99
+ENT_0124,CASE_016,AMOUNT,INR 19500,transaction.txt,0.99
+ENT_0125,CASE_016,DATE,2026-03-25,complaint.txt,0.99
+ENT_0126,CASE_016,LOCATION,"Surat, Gujarat",complaint.txt,0.95
+ENT_0127,CASE_016,URL,https://discom-power-payment.fakedemo.in,chat_transcript.txt,0.96
+ENT_0128,CASE_016,ORGANIZATION,City Gas Distribution Corp (Spoofed),complaint.txt,0.92
+ENT_0129,CASE_017,PERSON,Alok Saxena,complaint.txt,0.99
+ENT_0130,CASE_017,PHONE,9000000008,chat_transcript.txt,0.98
+ENT_0131,CASE_017,UPI,kyc.support@fakebank,transaction.txt,0.99
+ENT_0132,CASE_017,AMOUNT,INR 110000,transaction.txt,0.99
+ENT_0133,CASE_017,DATE,2026-03-26,complaint.txt,0.99
+ENT_0134,CASE_017,LOCATION,"Patna, Bihar",complaint.txt,0.95
+ENT_0135,CASE_017,URL,https://card-limit-upgrade.demobank.in,chat_transcript.txt,0.96
+ENT_0136,CASE_017,ORGANIZATION,National Card Services (Fictional),complaint.txt,0.92
+ENT_0137,CASE_018,PERSON,Ritu Choudhury,complaint.txt,0.99
+ENT_0138,CASE_018,PHONE,9000000004,chat_transcript.txt,0.98
+ENT_0139,CASE_018,UPI,sim.porting@fakesbi,transaction.txt,0.99
+ENT_0140,CASE_018,AMOUNT,INR 48000,transaction.txt,0.99
+ENT_0141,CASE_018,DATE,2026-03-27,complaint.txt,0.99
+ENT_0142,CASE_018,LOCATION,"Visakhapatnam, Andhra Pradesh",complaint.txt,0.95
+ENT_0143,CASE_018,URL,https://quick-kyc-telecom.demoportal.net,chat_transcript.txt,0.96
+ENT_0144,CASE_018,ORGANIZATION,National Telecom Services (Fictional),complaint.txt,0.92
+ENT_0145,CASE_019,PERSON,Harish Bhat,complaint.txt,0.99
+ENT_0146,CASE_019,PHONE,9000000019,chat_transcript.txt,0.98
+ENT_0147,CASE_019,UPI,invest.secure@demoaxis,transaction.txt,0.99
+ENT_0148,CASE_019,AMOUNT,INR 275000,transaction.txt,0.99
+ENT_0149,CASE_019,DATE,2026-03-28,complaint.txt,0.99
+ENT_0150,CASE_019,LOCATION,"Coimbatore, Tamil Nadu",complaint.txt,0.95
+ENT_0151,CASE_019,URL,https://vip-arbitrage-app.demotrading.org,chat_transcript.txt,0.96
+ENT_0152,CASE_019,ORGANIZATION,Alpha Wealth Capital (Fictional),complaint.txt,0.92
+ENT_0153,CASE_020,PERSON,Vandana Trivedi,complaint.txt,0.99
+ENT_0154,CASE_020,PHONE,9000000009,chat_transcript.txt,0.98
+ENT_0155,CASE_020,UPI,legal.settle@fakehdfc,transaction.txt,0.99
+ENT_0156,CASE_020,AMOUNT,INR 190000,transaction.txt,0.99
+ENT_0157,CASE_020,DATE,2026-03-29,complaint.txt,0.99
+ENT_0158,CASE_020,LOCATION,"Thiruvananthapuram, Kerala",complaint.txt,0.95
+ENT_0159,CASE_020,URL,https://customs-surveillance.fakedemo.in,chat_transcript.txt,0.96
+ENT_0160,CASE_020,ORGANIZATION,Federal Narcotics Bureau (Spoofed),complaint.txt,0.92

@@ -1,0 +1,21 @@
+transaction_id,case_id,timestamp,amount,sender,recipient,upi_id,status
+TXN_20260310_001,CASE_001,2026-03-10T10:30:00Z,450000,Rajesh Sharma,Impersonator (Synthetic CEO Voice),corp.settle99@fakeupi,COMPLETED
+TXN_20260311_002,CASE_002,2026-03-11T14:15:00Z,28500,Ananya Rao,HR Coordinator Neha (Recruiter),recruitment.fee@demobank,COMPLETED
+TXN_20260312_003,CASE_003,2026-03-12T09:45:00Z,75000,Suresh Kumar,Fake Advocate / Cloned Grandson Voice,emergency.fund01@fakeupi,COMPLETED
+TXN_20260313_004,CASE_004,2026-03-13T11:20:00Z,32000,Meera Iyer,Telecom Verification Desk,telecom.kyc@fakeicici,COMPLETED
+TXN_20260314_005,CASE_005,2026-03-14T16:00:00Z,250000,Vikram Malhotra,Fake DSP Ramesh Rathore,customs.clearance@demoaxis,COMPLETED
+TXN_20260315_006,CASE_006,2026-03-15T18:40:00Z,180000,Pooja Hegde,Crypto Mentor Kabir,crypto.arbitrage@fakeupi,COMPLETED
+TXN_20260316_007,CASE_007,2026-03-16T11:15:00Z,620000,Amit Desai,Cloned CFO Voice Operator,vendor.urgent@fakehdfc,COMPLETED
+TXN_20260317_008,CASE_008,2026-03-17T13:05:00Z,95000,Sunita Joshi,Card Division Executive,kyc.support@fakebank,COMPLETED
+TXN_20260318_009,CASE_009,2026-03-18T15:25:00Z,140000,Rohit Sen,NCB Inspector Verma,narcotics.escrow@demobank,COMPLETED
+TXN_20260319_010,CASE_010,2026-03-19T08:50:00Z,15500,Kavita Nair,Express Logistics Helpdesk,courier.refee@fakeupi,COMPLETED
+TXN_20260320_011,CASE_011,2026-03-20T22:10:00Z,85000,Deepak Verma,Hospital Desk / Cloned Brother Voice,emergency.fund01@fakeupi,COMPLETED
+TXN_20260321_012,CASE_012,2026-03-21T20:15:00Z,21000,Neha Gupta,Electricity Bill Officer,power.discom@fakeupi,COMPLETED
+TXN_20260322_013,CASE_013,2026-03-22T12:40:00Z,42000,Manoj Tiwari,Army Officer Buyer Ramesh,olx.escrow99@demobank,COMPLETED
+TXN_20260323_014,CASE_014,2026-03-23T17:30:00Z,310000,Sneha Mukherjee,Cyber Crime Inspector Rajiv,cbi.deposit@fakeupi,COMPLETED
+TXN_20260324_015,CASE_015,2026-03-24T15:00:00Z,36000,Rahul Menon,Senior Talent Acquisition Manager,hr.onboarding@fakeupi,COMPLETED
+TXN_20260325_016,CASE_016,2026-03-25T14:10:00Z,19500,Geeta Bansal,Utility Meter Inspector,utility.update@fakeaxis,COMPLETED
+TXN_20260326_017,CASE_017,2026-03-26T10:50:00Z,110000,Alok Saxena,Banking Rewards Specialist,kyc.support@fakebank,COMPLETED
+TXN_20260327_018,CASE_018,2026-03-27T16:45:00Z,48000,Ritu Choudhury,5G Network Support Specialist,sim.porting@fakesbi,COMPLETED
+TXN_20260328_019,CASE_019,2026-03-28T19:15:00Z,275000,Harish Bhat,Lead Analyst Raghav,invest.secure@demoaxis,COMPLETED
+TXN_20260329_020,CASE_020,2026-03-29T11:40:00Z,190000,Vandana Trivedi,Narcotics Joint Commissioner,legal.settle@fakehdfc,COMPLETED

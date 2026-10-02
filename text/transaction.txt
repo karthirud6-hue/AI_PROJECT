@@ -1,0 +1,12 @@
+BANK TRANSACTION SETTLEMENT ADVICE - TXN_20260329_020
+SYNTHETIC TRANSACTION RECORD
+--------------------------------------------------
+Case ID           : CASE_020
+Transaction ID    : TXN_20260329_020
+Timestamp         : 2026-03-29T11:40:00Z
+Debited Account   : Vandana Trivedi (Savings)
+Beneficiary Alias : Narcotics Joint Commissioner
+Beneficiary UPI   : legal.settle@fakehdfc
+Settled Amount    : INR 190000.00
+Transaction Status: SUCCESS / SETTLED
+Payment Gateway   : UPI_FASTPAY_DEMO

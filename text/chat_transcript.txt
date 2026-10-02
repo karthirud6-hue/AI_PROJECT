@@ -1,0 +1,7 @@
+VERBATIM CHAT LOG - CASE CASE_020
+Target Phone: 9000000009 | Disputed UPI: legal.settle@fakehdfc
+------------------------------------------------------------
+[2026-03-29 11:40:00] Scammer (9000000009): Vandana Trivedi, Parcel AWB-88190 detained at customs with counterfeit credit cards in your name. Non-bailable arrest warrant prepared.
+[2026-03-29 11:40:00] Victim (Vandana Trivedi): I have never authorized any overseas shipping!
+[2026-03-29 11:40:00] Scammer (9000000009): Deposit Rs 190,000 security bond to legal.settle@fakehdfc for formal forensic passport clearance.
+[2026-03-29 11:40:00] Victim (Vandana Trivedi): Transferred Rs 190,000 to legal.settle@fakehdfc.
